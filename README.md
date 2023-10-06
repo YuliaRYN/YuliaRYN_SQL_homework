@@ -1,5 +1,5 @@
-# YuliaRYN_Portfolio
-# YuliaRYN_SQL_homework
+1.YuliaRYN_Portfolio
+1.2. YuliaRYN_SQL_homework
 ***
 использовались таблицы сайта: https://www.w3schools.com/sql
 ***
