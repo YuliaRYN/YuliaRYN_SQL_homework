@@ -1,10 +1,11 @@
 1.YuliaRYN_Portfolio
 1.2. YuliaRYN_SQL_homework
 ***
-использовались таблицы сайта: https://www.w3schools.com/sql
+### использовались таблицы сайта: https://www.w3schools.com/sql
 ***
 ### Задание 1
 Для последнего заказа покажите customer's name, product name и employee's name. Используйте JOIN нескольких таблиц.
+
 Решение :
 SELECT 
   CustomerName, 
@@ -30,8 +31,9 @@ FROM
 
 
 
-###Задание 2 
+### Задание 2 
 Создать запрос, показывающий все заказы клиентов из Испании.
+
 Решение:
 SELECT 
   * 
